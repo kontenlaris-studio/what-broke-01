@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280" alt="what-broke-01 logo">
+
+**Say what actually broke.**
+
+![Python](https://img.shields.io/badge/Language-Python-FF7A00?style=for-the-badge&labelColor=0A1931) ![License: MIT](https://img.shields.io/badge/License-MIT-FF7A00?style=for-the-badge&labelColor=0A1931) ![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-FF7A00?style=for-the-badge&labelColor=0A1931)
+
+</div>
+
 # what-broke-01
 
 [![make.fun · u-po-pu-say-what-actually-broke-a2c153b5](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
